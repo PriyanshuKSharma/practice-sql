@@ -30,10 +30,11 @@ This repository contains SQL practice queries for various tables including STATI
 - `city_average_population.sql`: Average population of all cities, rounded down.
 - `city_population_diff.sql`: Difference between the maximum and minimum populations.
 - `city_count_population_gt_100k.sql`: Count of cities with population > 100,000.
+- `city_california_population.sql`: Total population of cities in California.
 
 ## Author
 
-PriyanshuKSharma
+Priyanshu Kumar Sharma
 
 ## Platform
 
