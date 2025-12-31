@@ -14,6 +14,7 @@ This repository contains SQL practice queries for various tables including STATI
 - `station_lat_long_sum.sql`: Sum of LAT_N and LONG_W rounded to 2 decimal places.
 - `station_lat_sum_truncated.sql`: Sum of LAT_N truncated to 4 decimal places where 38.7880 < LAT_N < 137.2345.
 - `station_lat_max_truncated.sql`: Max LAT_N less than 137.2345, truncated to 4 decimal places.
+- `station_long_w_for_max_lat.sql`: LONG_W for the largest LAT_N less than 137.2345, rounded to 4 decimals.
 
 ### Students Table
 
