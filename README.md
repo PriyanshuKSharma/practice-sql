@@ -21,6 +21,7 @@ This repository contains SQL practice queries for various tables including STATI
 - `employee_names_alphabetical.sql`: List of employee names in alphabetical order.
 - `employee_salary_tenure.sql`: Employees with salary > $2000 and tenure < 10 months.
 - `employees_salary_error_calculation.sql`: Calculation of error in average salary due to keyboard malfunction (removing zeros).
+- `employee_max_earnings.sql`: Maximum total earnings and count of employees with those earnings.
 
 ### Occupations Table
 
