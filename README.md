@@ -11,6 +11,7 @@ This repository contains SQL practice queries for various tables including STATI
 - `station_not_end_vowels.sql`: Query for cities NOT ending with vowels.
 - `station_either_not_start_or_not_end_vowels.sql`: Query for cities either NOT starting OR NOT ending with vowels.
 - `station_neither_start_nor_end_vowels.sql`: Query for cities NEITHER starting NOR ending with vowels.
+- `station_lat_long_sum.sql`: Sum of LAT_N and LONG_W rounded to 2 decimal places.
 
 ### Students Table
 
